@@ -2,7 +2,9 @@
 # To install the AI on your device
 ## Type these commands given below
 ## First you need to install pyttsx3 & wikipedia module in your device by using the command
-### pip install pyttsx3 && wikipedia
+### pip install pyttsx3 && wikipedia (If this doesn't worked you can either install them one by one like):-
+### pip install pyttsx3 
+### pip install wikipedia
 ### git clone https://Nayal404/pythonAI.git
 ### cd pythonAI
 ### ls
