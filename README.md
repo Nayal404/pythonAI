@@ -1,8 +1,8 @@
 # pythonAI Developed by Nayal/Om Sunar
 # To install the AI on your device
 ## Type these commands given below
-## First you need to install pyttsx3 in your device by using the command
-### pip install pyttsx3 or python -m pip install pyttsx3
+## First you need to install pyttsx3 & wikipedia module in your device by using the command
+### pip install pyttsx3 && wikipedia
 ### git clone https://Nayal404/pythonAI.git
 ### cd pythonAI
 ### ls
